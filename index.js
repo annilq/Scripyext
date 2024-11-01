@@ -98,4 +98,4 @@ var fetchYuyue = function (id) { return __awaiter(void 0, void 0, void 0, functi
 getAllCoursesIds();
 setInterval(function () {
     getAllCoursesIds();
-}, 2000);
+}, 5000);

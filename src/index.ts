@@ -57,4 +57,4 @@ getAllCoursesIds()
 
 setInterval(() => {
   getAllCoursesIds()
-}, 2000)
+}, 5000)
